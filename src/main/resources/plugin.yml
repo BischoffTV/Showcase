@@ -1,5 +1,0 @@
-name: Showcase
-version: '${project.version}'
-main: org.bischoff.showcase.Showcase
-api-version: '1.19'
-load: STARTUP
