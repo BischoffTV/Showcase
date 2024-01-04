@@ -1,0 +1,5 @@
+name: Showcase
+version: '1.0'
+main: org.bischoff.showcase.Showcase
+api-version: '1.19'
+load: STARTUP
